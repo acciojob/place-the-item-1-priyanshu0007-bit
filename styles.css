@@ -1,2 +1,20 @@
-
-/* Your CSS Code here. */
+.eg3{
+	background-color:green;	
+	height:5em;
+	width:6em;
+}
+.box{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.eg1{
+	background-color:red;
+	height:5em;
+	width:6em;
+}
+.eg2{
+	background-color:blue;
+	height:5em;
+	width:6em;
+}
