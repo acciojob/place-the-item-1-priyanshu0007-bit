@@ -3,7 +3,7 @@
 	height:5em;
 	width:6em;
 }
-.box{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
